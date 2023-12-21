@@ -6,7 +6,7 @@ My current focus is biology, but previously I developed a bunch of ML methods fo
 You can find my development/ML projects here on github: first of all, check einops (unless you already use it 😏).
 
 
-I'm currenlty open for new positions:
+❗ I'm currenlty open for new positions:
 
 - from me: fantastic technical leadership in AI/ML projects, research, pipelines, and research/engineering environment.
 - from you: cool science (biology preferred), strong team and developed validation/growth plan
