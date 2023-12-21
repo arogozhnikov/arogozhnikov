@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi-hello 👋
 
-<!--
-**arogozhnikov/arogozhnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working on really challenging scientific questions that will make a long-term difference. 
+My current focus is biology, but previously I developed a bunch of ML methods for CERN.
 
-Here are some ideas to get you started:
+You can find my development/ML projects here on github: first of all, check einops (unless you already use it 😏).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm currenlty open for new positions:
+
+- from me: fantastic technical leadership in AI/ML projects, research, pipelines, and research/engineering environment.
+- from you: cool science (biology preferred), strong team and developed validation/growth plan
+- remote or South Bay Area
+
+Ideal projects are improving functions of proteins or creation of new functions, 
+but I'm open to diffent mind-blowing things. 
+
+Contant me at [name].[secondname].phd@gmail.com
