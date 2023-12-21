@@ -15,4 +15,4 @@ You can find my development/ML projects here on github: first of all, check eino
 Ideal projects are improving functions of proteins or creation of new functions, 
 but I'm open to diffent mind-blowing things. 
 
-Contant me at [name].[secondname].phd@gmail.com
+Contant me at [name].[secondname].phd@gmail.com or at [linkedin](https://www.linkedin.com/in/alexrogozhnikov/)
