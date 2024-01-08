@@ -9,10 +9,10 @@ You can find my development/ML projects here on github: first of all, check eino
 ❗ I'm currenlty open for new positions:
 
 - from me: fantastic technical leadership in AI/ML projects, research, pipelines, and research/engineering environment.
-- from you: cool science (biology preferred), strong team and developed validation/growth plan
+- from you: cool science (preference to biology-related), strong team and developed validation/growth plan
 - remote or South Bay Area
 
-Ideal projects are improving functions of proteins or creation of new functions, 
+Ideal projects are creation of proteins with new functions, 
 but I'm open to diffent mind-blowing things. 
 
 Contant me at [name].[secondname].phd@gmail.com or at [linkedin](https://www.linkedin.com/in/alexrogozhnikov/)
