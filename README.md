@@ -10,7 +10,7 @@ You can find my development/ML projects here on github: first of all, check eino
 
 - from me: fantastic technical leadership in AI/ML projects, research, pipelines, and research/engineering environment.
 - from you: cool science (preference to biology-related), strong team and developed validation/growth plan
-- remote or South Bay Area
+- remote or Bay Area (between SF and MV)
 
 Ideal projects are creation of proteins with new functions, 
 but I'm open to diffent mind-blowing things. 
