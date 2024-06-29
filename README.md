@@ -53,8 +53,8 @@ Are you looking for a programming project? I have some ideas for you:
   Back to the point: openssh-server does not support serving on unix socket, so I use ugly hack with `socat` redirecting request to TCP port.
   Openssh-client does not support connecting to domain socket (easy to fix this in config though).
 
-  While patches are available to support ssh sockets, I'm on the marker for something newer, e.g. something like 
-  [SSH3](https://github.com/francoismichel/ssh3) + serving/connecting to unix sockets.
+  While (unmerged) patches are available to support UDS in openssh, I'm on the market for something next-gen, 
+  e.g. something like [SSH3](https://github.com/francoismichel/ssh3) + serving/connecting to unix sockets.
   
 </details>
 
@@ -64,10 +64,10 @@ Remarks related to all project above
 <details markdown=1>
   <summary> What exactly I am ready to help with (details) </summary>
   
-  If you think taking one of these projects, I am ready to try your solution, provide user feedback, and if I like it, cover it here or in my blog.
+  If you think taking one of these projects, I am ready to test your solution, provide user feedback, maybe put in prodiction, and if it works, cover it here or in my blog.
   (or einops docs if it is relevant to einops).
 
-  Note that doesn't include development, but programming is something enjoyable, 
+  Note that doesn't include development, but programming is something enjoyable, <br />
   while finding someone interested in using your work is usually non-trivial.
   
 </details>
