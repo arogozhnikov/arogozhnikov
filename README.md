@@ -36,6 +36,31 @@ Are you looking for a programming project? I have some ideas for you:
 </details>
 
 
+
+<details markdown=1>
+  <summary> 'better' typer </summary>
+  
+  Tiangolo's [typer](https://github.com/tiangolo/typer) originally made a number of things right - hierarchy of typers, strict type checking, 
+  and auto-completion for a number of shells out-of-the-box.
+
+  That said, typer lacks attention from tiangolo, and lost some critical parts of experience:
+  - it is slow (500ms for auto suggestion is harsh)
+  - way many dependencies 
+  - does not handle async functions (fixable)
+  - it is quite shell-y and not pythonic. I'd like to just call function from shell after all
+    - strange rules for lists and *args (e.g. can't pass an empty list)
+    - `func(*, kw_only_param, kw_param=False)` is not recognized
+    - `func(param1, param2=None)` forces to use --param2=val instead of `call param1_val param2_val`
+    - `type | None` not supported
+    - dataclasses / pydantic as inputs are not supported
+  - 'just give me raw input, I'll put it to other bahs command' is not supported
+
+  That's my complains, but walk over [bugtracker](https://github.com/tiangolo/typer/issues) of typer to see what's in demand.
+
+</details>
+
+
+
 <details markdown=1>
   <summary> unix sockets in SSH-over-HTTP </summary>
 
@@ -64,11 +89,11 @@ Remarks related to all project above
 <details markdown=1>
   <summary> What exactly I am ready to help with (details) </summary>
   
-  If you think taking one of these projects, I am ready to test your solution, provide user feedback, maybe put in prodiction, and if it works, cover it here or in my blog.
+  If you think taking one of these projects, I am happy to test your solution, provide detailed user feedback, maybe test in prodiction, and if it works, cover it here or in my blog.
   (or einops docs if it is relevant to einops).
 
   Note that doesn't include development, but programming is something enjoyable, <br />
-  while finding someone interested in using your work is usually non-trivial.
+  while finding someone interested in using your work is usually non-trivial 🙂.
   
 </details>
 
