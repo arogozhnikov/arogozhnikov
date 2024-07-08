@@ -53,7 +53,7 @@ Are you looking for a programming project? I have some ideas for you:
     - `func(param1, param2=None)` forces to use --param2=val instead of `call param1_val param2_val`
     - `type | None` not supported
     - dataclasses / pydantic as inputs are not supported
-  - 'just give me raw input, I'll put it to other bahs command' is not supported
+  - 'just give me raw input, I'll put it to other bash command' is not supported
 
   That's my complains, but walk over [bugtracker](https://github.com/tiangolo/typer/issues) of typer to see what's in demand.
 
