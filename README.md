@@ -38,7 +38,7 @@ Are you looking for a programming project? I have some ideas for you:
 
 
 <details markdown=1>
-  <summary> 'better' typer </summary>
+  <summary markdown=1> <s>'better' typer</s> &nbsp;upd: <a href='https://github.com/BrianPugh/cyclopts'>cyclopts</a> only misses autosuggestion to solve this </summary>
   
   Tiangolo's [typer](https://github.com/tiangolo/typer) originally made a number of things right - hierarchy of typers, strict type checking, 
   and auto-completion for a number of shells out-of-the-box.
@@ -80,6 +80,17 @@ Are you looking for a programming project? I have some ideas for you:
 
   While (unmerged) patches are available to support UDS in openssh, I'm on the market for something next-gen, 
   e.g. something like [SSH3](https://github.com/francoismichel/ssh3) + serving/connecting to unix sockets.
+  
+</details>
+
+
+<details markdown=1>
+  <summary markdown=1> <s>no-std rust barcode scanner </s> <a href='https://github.com/rxing-core/rxing'>rxing</a> solved it </summary>
+  At some point I've been looking for a barcode scanner that I could embed in web page via WASM, 
+  and from python too.
+
+  Nothing was available at that point, but @hschimke kindly added support of WASM target and CLI to his rust project,
+  and I recommend giving it a try. I could use it on different cell phones right from web page.
   
 </details>
 
