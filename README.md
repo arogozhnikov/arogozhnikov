@@ -85,7 +85,7 @@ Are you looking for a programming project? I have some ideas for you:
 
 
 <details markdown=1>
-  <summary markdown=1> <s>no-std rust barcode scanner </s> <a href='https://github.com/rxing-core/rxing'>rxing</a> solved it </summary>
+  <summary markdown=1> <s>no-std rust barcode scanner</s> &nbsp; <a href='https://github.com/rxing-core/rxing'>rxing</a> solved it </summary>
   At some point I've been looking for a barcode scanner that I could embed in web page via WASM, 
   and from python too.
 
