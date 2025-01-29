@@ -13,7 +13,7 @@ Are you looking for a programming project? I have some ideas for you:
 
 
 <details markdown=1>
-  <summary> einops support in ruff </summary>
+  <summary markdown=1> einops support in ruff (upd: Sonar introduced <a href='https://rules.sonarsource.com/python/tag/convention/RSPEC-6984/'>einops check</a>) </summary>
   
   Einops is very readable per se, and mistakes are generally easy to detect, but how about making it even simpler with static analysis? 
 
