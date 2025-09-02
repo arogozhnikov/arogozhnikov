@@ -106,7 +106,7 @@ Remarks related to all project above
 <details markdown=1>
   <summary> What exactly I am ready to help with (details) </summary>
   
-  If you think taking one of these projects, I am happy to test your solution, provide detailed user feedback, maybe test in prodiction, and if it works, cover it here or in my blog.
+  If you think taking one of these projects, I am happy to test your solution, provide detailed user feedback, maybe test in production, and if it works, cover it here or in my blog.
   (or einops docs if it is relevant to einops).
 
   Note that doesn't include development, but programming is something enjoyable, <br />
