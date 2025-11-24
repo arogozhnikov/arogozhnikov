@@ -2,7 +2,7 @@
 
 I enjoy working on really challenging scientific questions that will make a long-term difference. 
 
-My current focus is ML + Bio (more specifically, protein design), but previously I developed a bunch of ML methods for CERN.
+I provide tech organization/leadership for small teams moving science. Current focus is ML + Bio (more specifically, protein design), but previously I developed a bunch of ML methods for CERN.
 
 You can find my development/ML projects here on github: first of all, check `einops` (unless you already use it 😏).
 
@@ -27,7 +27,7 @@ Are you looking for a programming project? I have some ideas for you:
 </details>
 
 <details markdown=1>
-  <summary> einops coloring in vs code </summary>
+  <summary markdown=1> <s>einops coloring in vs code</s> (upd: try <a href="https://marketplace.visualstudio.com/items?itemName=MarcinJachmann.vscode-eincolor">EinColor</a> for VS code from Marcin Jachmann) </summary>
   
   Wouldn't it be great if reduced or added dimension was immediately colored? Something like:
   
