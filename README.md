@@ -95,7 +95,7 @@ Are you looking for a programming project? I have some ideas for you:
 </details>
 
 <details markdown=1>
-  <summary markdown=1> interactive playground for einops in jupyterlite </summary>
+  <summary markdown=1> <s>interactive playground for einops in jupyterlite</s> </summary>
 
   see this issue for details: <https://github.com/arogozhnikov/einops/issues/340>
 </details>  
